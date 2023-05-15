@@ -464,6 +464,9 @@ h1.newSeasonTitle{
     .features{
         flex-direction: column;
     }
+    .feature{
+        padding: 10px 0;
+    }
     .product{
         clip-path: none;
         display: flex;
@@ -472,6 +475,7 @@ h1.newSeasonTitle{
     }
     .productImg{
         width: 80%;
+        padding: 10px;
     }
     .productDetail{
         width: 100%;
